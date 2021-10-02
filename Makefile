@@ -11,6 +11,6 @@ test:
 
 
 lint:
-	pylint --disable=R,C myrepo
+	pylint --disable=R,C myrepolib
 
 
