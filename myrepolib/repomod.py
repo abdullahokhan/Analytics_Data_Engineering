@@ -1,5 +1,3 @@
-import requests
-import json
 
 #fail= #intentional fail
 
