@@ -10,5 +10,7 @@ test:
 
 lint:
 	pylint --disable=R,C myrepolib
+	
+all: install lint test
 
 
